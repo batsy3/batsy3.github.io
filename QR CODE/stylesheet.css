@@ -1,0 +1,51 @@
+body {
+  height: 700px 700px;
+  display: block;
+  background-color: hsl(212, 45%, 89%);
+  opacity: 0.6;
+  background-attachment: scroll;
+}
+/*margin is the space around an element's border, while padding is the space between an element's border and the element's content.*/
+.container {
+  padding: 300px 90px;
+  margin: 270px auto 150px;
+  max-height: 30px;
+  width: 200px;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 20px 20px 50px grey;
+}
+.jpeg{
+	margin-top: -280px;
+	margin-right: -70px;
+	margin-left: -70px;
+}
+img {
+	width: 100%;
+	position: relative;
+	border-radius: 20px;
+}
+.text{
+	padding: auto;
+
+	align-content: center;
+	width: 100%;
+}
+p{
+	align-content:flex-start;
+	text-align: center;
+	margin-top: 25px;
+	margin-right: -60px;
+	margin-left: -60px;
+	margin-bottom: auto;
+	font-size:  25px;
+	font-weight:bolder;
+}
+#small{
+	margin-bottom: 50px;
+	font-size:  15px;
+	font-weight:lighter;
+
+
+}
+
