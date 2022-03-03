@@ -4,12 +4,11 @@ body {
   background-color: hsl(212, 45%, 89%);
   opacity: 0.6;
   background-attachment: scroll;
+
 }
 /*margin is the space around an element's border, while padding is the space between an element's border and the element's content.*/
 .container {
-  padding: 300px 90px;
-  margin: 270px auto 150px;
-  max-height: 30px;
+  padding: 1rem;
   width: 200px;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
